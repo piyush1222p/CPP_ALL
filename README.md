@@ -15,10 +15,10 @@ To set up this project locally, follow these steps:
    ```sh
    git clone https://github.com/piyush1222p/C_plus_plus.git
 
-  A. Navigate to the project directory:
-        cd C_plus_plus
+2. Navigate to the project directory:
+      cd C_plus_plus
 
-  B. Compile the code using your preferred C++ compiler.
+3. Compile the code using your preferred C++ compiler.
 
 ## Usage
 To run the compiled code, use:
@@ -37,19 +37,16 @@ Contributions are welcome! Please follow these guidelines:
 
    Make your changes and commit them:
 
-
         git commit -m 'Add some feature'
 
    Push to the branch:
-
 
         git push origin feature/YourFeatureName
 
    Open a pull request.
 
-
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact Information
 For any inquiries, please reach out to the project maintainer at [PiyushShukla532@gmail.com]
