@@ -46,7 +46,7 @@ Contributions are welcome! Please follow these guidelines:
    Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GPL License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact Information
 For any inquiries, please reach out to the project maintainer at [PiyushShukla532@gmail.com]
